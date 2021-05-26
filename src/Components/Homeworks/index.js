@@ -42,7 +42,7 @@ function Homeworks() {
       <tr>
           <th scope="row">3</th>
           <td>Homework 2.2</td>
-          <td>Javascript - Here is my codepen link with solution</td>
+          <td>HTML Website - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/VwpzPpX"> Link</a> </td>
        
       </tr>
