@@ -38,9 +38,16 @@ function Homeworks() {
           <td><a href="https://codepen.io/shaggytaro/pen/QWpMyrM"> Link</a> </td>
        
       </tr>
-
       <tr>
           <th scope="row">3</th>
+          <td>Homework 2.1</td>
+          <td>Storage HW - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/RwpZezj"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">4</th>
           <td>Homework 2.2</td>
           <td>HTML Website - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/VwpzPpX"> Link</a> </td>
