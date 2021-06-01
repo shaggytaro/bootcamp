@@ -53,6 +53,14 @@ function Homeworks() {
           <td><a href="https://codepen.io/shaggytaro/pen/VwpzPpX"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">5</th>
+          <td>Homework 3.1</td>
+          <td>CSS Selectors - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/qBrpMam"> Link</a> </td>
+       
+      </tr>
         
       </tbody>
     </Table>
