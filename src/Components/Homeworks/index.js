@@ -78,6 +78,13 @@ function Homeworks() {
        
       </tr>
         
+      <tr>
+          <th scope="row">7</th>
+          <td>Word count HW</td>
+          <td>Word count - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/dyvJraN"> Link</a> </td>
+       
+      </tr>
       </tbody>
     </Table>
         </Container>
