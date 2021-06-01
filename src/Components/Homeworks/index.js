@@ -63,7 +63,7 @@ function Homeworks() {
       </tr>
 
       <tr>
-          <th scope="row">5</th>
+          <th scope="row">5.5</th>
           <td>Quiz HW</td>
           <td>Quiz - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/eYvyLVd"> Link</a> </td>
