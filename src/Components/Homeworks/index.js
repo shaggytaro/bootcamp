@@ -72,7 +72,7 @@ function Homeworks() {
 
       <tr>
           <th scope="row">6</th>
-          <td>Nav Bar HW</td>
+          <td>HW 3.2</td>
           <td>Nav Bar - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/Rwpxebd"> Link</a> </td>
        
