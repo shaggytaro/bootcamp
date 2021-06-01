@@ -80,7 +80,7 @@ function Homeworks() {
         
       <tr>
           <th scope="row">7</th>
-          <td>Word count HW</td>
+          <td>HW 3.3</td>
           <td>Word count - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/dyvJraN"> Link</a> </td>
        
