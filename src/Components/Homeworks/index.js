@@ -109,6 +109,14 @@ function Homeworks() {
           <td><a href="https://codepen.io/shaggytaro/pen/MWpBoPm"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">11</th>
+          <td>HW 8.3</td>
+          <td>Palindrome HW - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/vYxaZMw"> Link</a> </td>
+       
+      </tr>
       </tbody>
     </Table>
         </Container>
