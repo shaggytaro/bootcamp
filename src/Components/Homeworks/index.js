@@ -21,6 +21,7 @@ function Homeworks() {
           <th>Type</th>
           <th>Description</th>
           <th>Link</th>
+          <th>GitHub Links</th>
         </tr>
       </thead>
       <tbody>
@@ -29,6 +30,7 @@ function Homeworks() {
           <td>Homework1</td>
           <td>Git Practice. Provide link of your repo here </td>
           <td><a href="https://github.com/shaggytaro/gitpracticehw1"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
         <tr>
@@ -36,6 +38,7 @@ function Homeworks() {
           <td>Homework 2</td>
           <td>Javascript - Here is my codepen link with solutions</td>
           <td><a href="https://codepen.io/shaggytaro/pen/QWpMyrM"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
       <tr>
@@ -43,6 +46,7 @@ function Homeworks() {
           <td>Homework 2.1</td>
           <td>Storage HW - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/RwpZezj"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -51,6 +55,7 @@ function Homeworks() {
           <td>Homework 2.2</td>
           <td>HTML Website - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/VwpzPpX"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -59,6 +64,7 @@ function Homeworks() {
           <td>Homework 3.1</td>
           <td>CSS Selectors - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/qBrpMam"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -67,6 +73,7 @@ function Homeworks() {
           <td>Quiz HW</td>
           <td>Quiz - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/eYvyLVd"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -75,6 +82,7 @@ function Homeworks() {
           <td>HW 3.2</td>
           <td>Nav Bar - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/Rwpxebd"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
         
@@ -83,6 +91,7 @@ function Homeworks() {
           <td>HW 3.3</td>
           <td>Word count - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/dyvJraN"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -91,6 +100,7 @@ function Homeworks() {
           <td>HW 4.1</td>
           <td>Comcast Question - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/QWpmgpM"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -99,6 +109,7 @@ function Homeworks() {
           <td>HW 5.1</td>
           <td>Theme changer - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/QWpmgBQ/"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
       
@@ -107,6 +118,7 @@ function Homeworks() {
           <td>HW 5.2</td>
           <td>Frontier Challenge - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/MWpBoPm"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -115,6 +127,7 @@ function Homeworks() {
           <td>HW 8.3</td>
           <td>Palindrome HW - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/vYxaZMw"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
@@ -123,6 +136,7 @@ function Homeworks() {
           <td>HW 10.2</td>
           <td>Lottery Project - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/gOmdPOY"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
        
       </tr>
 
