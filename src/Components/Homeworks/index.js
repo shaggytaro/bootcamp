@@ -117,6 +117,17 @@ function Homeworks() {
           <td><a href="https://codepen.io/shaggytaro/pen/vYxaZMw"> Link</a> </td>
        
       </tr>
+
+      <tr>
+          <th scope="row">12</th>
+          <td>HW 10.2</td>
+          <td>Lottery Project - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/gOmdPOY"> Link</a> </td>
+       
+      </tr>
+
+
+      
       </tbody>
     </Table>
         </Container>
