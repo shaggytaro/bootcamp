@@ -20,7 +20,7 @@ function Homeworks() {
           <th>#</th>
           <th>Type</th>
           <th>Description</th>
-          <th>Link</th>
+          <th>Result Link</th>
           <th>GitHub Links</th>
         </tr>
       </thead>
@@ -136,6 +136,15 @@ function Homeworks() {
           <td>HW 10.2</td>
           <td>Lottery Project - Here is my codepen link with solution</td>
           <td><a href="https://codepen.io/shaggytaro/pen/gOmdPOY"> Link</a> </td>
+          <td><a href="#"> Link</a> </td>
+       
+      </tr>
+
+      <tr>
+          <th scope="row">13</th>
+          <td>HW 10.1</td>
+          <td>CSS Grid HW - Here is my codepen link with solution</td>
+          <td><a href="https://codepen.io/shaggytaro/pen/poeOqww"> Link</a> </td>
           <td><a href="#"> Link</a> </td>
        
       </tr>
